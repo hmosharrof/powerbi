@@ -2,7 +2,7 @@
 Power BI desktop application sample project.  
 
 <h2><b>Population Data Analysis:</b></h2> 
-<p>This project is based on world population data and the projec is an assignment from Udemy POWER BI practise course.</p></br>
+<p>Basic Power BI project for beginners. This project is based on world population data and the project is an assignment from Udemy POWER BI practise course.</p></br>
 
 <h2><b>VanArsdel Sales Customer Data Analysis:</b></h2>
 <p>A intermediate level Power BI design and data analysis project. Get data from excel, transform data using Power Query, manage relations between tables and finally created Manufacturer and Market Share analysis reports.</p></br>
